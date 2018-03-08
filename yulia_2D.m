@@ -1,5 +1,4 @@
 ya programmiiiiist
-load('C:\Users\natalia\Downloads\plPLspl_plPLfpl_stim.mat')
 EEG1 = pop_loadset('C:\Users\natalia\Downloads\aleskerova1.set');
 fpath_chanlocs='C:\matl\eeglab12_0_2_5b\plugins\dipfit2.2\standard_BESA\standard-10-5-cap385.elp';
 EEG1 = pop_chanedit(EEG1, 'lookup', fpath_chanlocs);
